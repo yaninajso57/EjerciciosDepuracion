@@ -6,11 +6,11 @@ import java.util.*;
 		* Programa que lee números hasta que se lee un negativo y muestra la
 		* suma de los números leídos 
 		*/
-		private int suma, contador;
+		private int suma, numero;
 
 		public Ejercicio1() {
 			this.suma = 0;
-			this.contador = 0;
+			this.numero = 0;
 		}
 		
 		public static void main(String[] args) {
